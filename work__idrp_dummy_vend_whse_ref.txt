@@ -1,0 +1,2 @@
+warehouse_nbr|vendor_nbr
+1|4577

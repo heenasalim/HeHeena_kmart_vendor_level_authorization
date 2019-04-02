@@ -1,0 +1,8 @@
+load_ts|shc_item_id|shc_item_desc|sHc_division_nbr|shc_division_desc|shc_department_nbr|shc_department_desc
+1|1001|ED5-014|DIV-10|DIV-11|dept-22|ED4-256
+3|10012|ED5-015|DIV-10|DIV-11|dept-22|ED4-256
+14|1003|ED5-016|DIV-11|DIV-11|dept-22|ED4-256
+15|108|ED5-018|DIV-10|DIV-11|dept-22|ED4-256
+7|10012|ED5-019|DIV-13|DIV-11|dept-22|ED4-256
+9|1003|ED5-020|DIV-10|DIV-11|dept-22|ED4-256
+1|10011|ED5-014|DIV-15|DIV-11|dept-22|ED4-256

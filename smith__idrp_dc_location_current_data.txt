@@ -1,0 +1,6 @@
+load_ts|dc_location_nbr|last_purchase_order_nbr|last_worksheet_nbr|flow_thru_ind|enable_jif_dc_ind|dc_cd|dc_type_cd|order_location_ind|logistics_group_cd|dc_num|dc_850_nm|homcenter_ind|jit_ind|stock_ind|import_ind|rim_ind|send_item_maintenance|model_dc_location_nbr|last_hange_dt|last_change_user_id|send_order_maintenance_ind|pre_master|legacy_dc_location_nbr|idrp_batch_id
+110110|0|1|3782|0000|50000|heena|salim|"doctor"|444|88|03|01|1|2|3|99|783|666|20000|010|000|22|11|66|3215
+110111|0|1|3782|0000|50000|heena|salim|"doctor"|444|88|03|01|1|2|3|99|783|666|20000|010|000|22|11|66|321
+110112|0|1|3782|0000|50000|heena|salim|"doctor"|444|88|03|01|1|2|3|99|783|666|20000|010|000|22|11|66|321
+110113|0|1|3782|0000|50000|heena|salim|"doctor"|444|88|03|01|1|2|3|99|783|666|20000|010|000|22|11|66|321
+110114|0|1|3782|0000|50000|heena|salim|"doctor"|444|88|03|01|1|2|3|99|783|666|20000|010|000|22|11|66|321

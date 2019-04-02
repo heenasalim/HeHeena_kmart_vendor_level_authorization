@@ -1,0 +1,10 @@
+vendor_package_id|location_nbr|inbound_carton_per_layer_qty|inbound_layer_per_pallet_qty|inbound_order_uom_cd|ship_aprk_id|ksn_pack_purchase_status_cd|ksn_package_id|dc_stock_ind|substitution_eligible_ind|outbound_package_qty|ship_duns_nbr|effective_ts|expiration_ts|vendor_managed_inventory_cd|dc_handling_cd
+1|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+138|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+11|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+361|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+12|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+109|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+12|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+122|326|532|73829|0000|'U'|||3781|N|35271|apple|363|718|37292|3627
+

@@ -1,0 +1,7 @@
+load_ts|model_nbr|location_nbr|facility_nbr|model_desc
+190211|53737|locchinchwad|fac638|model739
+190213|53737|locchinchwad|fac638|model739
+190214|53737|locchinchwad|fac638|model739
+190218|53737|locchinchwad|fac638|model739
+190219|53737|locchinchwad|fac638|model739
+190220|53737|locchinchwad|fac638|model739

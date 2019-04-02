@@ -1,0 +1,11 @@
+shc_item_id|ksn_id|item_purchase_status_cd|vendor_package_id|vendor_package_purchase_status_cd|vendor_package_purchase_status_dt|servicing_dc_nbr|flow_type_cd|vendor_carton_qty|vendor_stock_nbr|ksn_package_id|ksn_purchase_status_cd|import_ind|sears_division_nbr|sears_item_nbr|sears_sku_nbr|scan_based_trading_ind|cross_merchandising_cd|retail_carton_vendor_package_id|vendor_package_owner_cd|can_carry_model_id|dotcom_orderable_cd|retail_carton_internal_package_qty|allocation_replenishment_cd|shc_item_type_cd|idrp_order_method_cd|source_package_qty|order_duns_nbr
+1|2|3|5|12333|1122|0|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+3|2|3|5|12333|1122|1|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+8|2|3|5|12333|1122|2|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+1000|2|3|5|12333|1122|3|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+2522|2|3|5|12333|1122|0|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+2626|2|3|5|12333|1122|5|"JIT"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+3000|2|3|5|12333|1122|6|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+100|2|3|5|12333|1122|5|"JIT"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+5|2|3|5|12333|1122|9|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
+5|2|3|5|12333|1122|9|"heena"|sears|0|10000|shi2522|heena salim|shaikh|3000|9075890920|"ABCD90082"|"op562y"|henama|"apple"|577288|909929|53665|9992229|356788|5454352|1|00000
